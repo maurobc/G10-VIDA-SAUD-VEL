@@ -278,7 +278,7 @@ void LerValidarSexo(){
 }
 
 void LerValidarAltura(){
-    printf("\nDigite sua altura (em metros): ");
+    printf("\nDigite sua altura (em metros *.**): ");
     scanf("%f", &altura);
     fflush(stdin);
     while (altura <= 0){
@@ -289,7 +289,7 @@ void LerValidarAltura(){
 }
 
 void LerValidarPeso(){
-    printf("\nDigite seu peso (em kilogramas): ");
+    printf("\nDigite seu peso (em kilogramas **.*): ");
     scanf("%f", &peso);
     fflush(stdin);
     while (peso <= 0){
