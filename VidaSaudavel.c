@@ -24,7 +24,7 @@ do{
     opcao = Menu();
     switch (opcao){
 
-    case 1: //Cadastro de pessoa física
+    case 1: //Cadastro de pessoa fÃ­sica
         Caso1();
         system ("pause");
     break;
@@ -34,7 +34,7 @@ do{
         system ("pause");
     break;
 
-    case 3: //Recomendações nutricionais
+    case 3: //RecomendaÃ§Ãµes nutricionais
         Caso3();
         system("pause");
     break;
@@ -270,7 +270,7 @@ void LerValidarSexo(){
     fflush(stdin);
     scanf("%c", &sexo);
     fflush(stdin);
-    while((sexo != 'F') && (sexo != 'M')){
+    while((sexo != 'f') && (sexo != 'm')){
         printf ("\n\n  ERRO! Digite seu sexo [F ou M]: ");
         scanf ("%c", &sexo);
         fflush(stdin);
