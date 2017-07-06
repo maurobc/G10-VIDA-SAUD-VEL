@@ -1,2 +1,0 @@
-# G10-VIDA-SAUD-VEL
-Trabalho de AP1 (G10 - VIDA SAUDÁVEL)
