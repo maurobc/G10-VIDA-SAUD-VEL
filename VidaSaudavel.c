@@ -388,7 +388,7 @@ int Menu(){
 
     system("cls");
     printf ("\t------------------------");
-    printf ("\n\t VIDA SAUDAVEL S/A\n");
+    printf ("\n\t VIDA SAUDAVEL Versão 1.2\n");
     printf ("\t------------------------\n");
     printf ("\n\t Selecione a operacao: ");
     printf ("\n\n\t  <1> Cadastro pessoal");
